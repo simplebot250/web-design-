@@ -1,0 +1,164 @@
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    font-family: 'Sacramento', serif;
+    font-size: 90px;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+
+
+h3{
+    font-family: 'Merriweather', serif;
+    color: #11999E;
+}
+
+
+h1{
+    margin: 50px auto 0 auto;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left:300px;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 50px;
+}
+
+
+
+.footer-link{
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    margin: 10px 20px;
+    text-decoration: none; 
+}
+
+.footer-link:hover{
+    color: #EAF6F6;
+}
+
+
+.skill-row{
+    width: 50%;
+    position:relative;
+    margin: auto auto auto auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.Gaming-skills{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.Eating-skills{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding-bottom: 10px;
+    line-height: 3;
+}
+
+.footer-color{
+    color: #EAF6F6;
+}
+
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 10px;
+    border-color: #EAF6F6;
+    width: 5%;
+    height: 5px;
+}
+
+
+.level-2{
+    line-height: 2;
+}
+
+
+.level-3{
+    line-height: 2;
+}
+
+.paragraph-1{
+    line-height: 4;
+}
+
+
+
+.btn{
+    line-height: 10;
+}
+
+
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199e);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199e);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+
